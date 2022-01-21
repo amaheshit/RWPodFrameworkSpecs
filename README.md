@@ -1,0 +1,2 @@
+# RWPodFrameworkSpecs
+Local specs
